@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFCxLddblq3Gxlm3oFNqAJbEDHp9t+06MVg/iH9lBLz2R8NNuaTo6nD2wUfkv9ynPy8thCGVrG4hkDFFVz41dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PETR\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PETR\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\PETR\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\PETR\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\PETR\\.nuget\\packages\\scottplot\\4.1.59\\scottplot.4.1.59.nupkg.sha512",
+    "C:\\Users\\PETR\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\PETR\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
